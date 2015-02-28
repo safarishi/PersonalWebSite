@@ -1,0 +1,135 @@
+.ad
+{
+	margin-top: 5px;
+	text-align: center;
+}
+
+.list_main
+{
+	min-height:350px;
+	_height:350px;
+	background-color:#FFF;
+	margin-top:5px;
+}
+
+.article_type
+{
+	width:220px;
+	height:350px;
+	border:1px solid #E8E8E8;
+
+	float:left;
+}
+
+.list_box
+{
+	width:770px;
+	min-height:350px;
+	_height:350px;
+	border:1px solid #E8E8E8;
+	float:right;
+	background:#FFF;
+}
+
+.article_type h2
+{
+	height:35px;
+	line-height:35px;
+	font-size:14px;
+	font-family:"΢���ź�";
+	color:#666;
+	background:url(../img/titile_bg.gif) repeat-x;
+	padding-left:20px;
+}
+
+.article_type_content
+{
+	height:365px;
+	background:url(../img/content_bg.gif) repeat-x;
+}
+
+.article_type_content li
+{
+	list-style-type:none;
+	height:30px;
+	line-height:30px;
+}
+
+.article_type_content li a
+{
+	color:#666;
+	text-decoration:none;
+	background:url(../img/li_bg.gif) no-repeat left center;
+	padding-left:15px;
+	display:block;
+}
+
+.article_type_content li a:hover
+{
+	color:#009CDF;
+	background:url(../img/li_bg2.gif) no-repeat left center;
+	background-color:#F2F2F2;
+}
+
+.list_box h2
+{
+	font-size:14px;
+	font-family:"΢���ź�";
+	color:#666;
+	height:35px;
+	line-height:35px;
+	background:url(../img/type_bg.png) repeat-x;
+	padding-left:20px;
+}
+
+.page
+{
+	height:40px;
+	margin-top:10px;
+	text-align:center;
+}
+
+.page a
+{
+	display:inline-block;
+	border:1px solid #E8E8E8;
+	text-decoration:none;
+	margin:5px;
+	padding:5px 10px;	
+}
+
+.page a:link,.page a:visited
+{
+	color:#000;
+}
+
+.page a:hover,.page a:active
+{
+	color:#FFF;
+	background-color:#CC1B1B;
+}
+
+.list_box h1
+{
+    font-family:"微软雅黑";
+    font-size:20px;
+    text-align:center;
+    margin:10px 0;
+}
+
+.list_box_articleInfo
+{
+    color:#666;
+    text-align:center;
+    border-bottom:1px dotted #666;
+
+}
+
+.list_box_articleContent
+{
+    font-size:14px;
+    padding:20px;
+    line-height:25px;
+    text-indent:2em;
+}
+
