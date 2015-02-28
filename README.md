@@ -1,2 +1,2 @@
 # PersonalWebSite
-Based on yii personal web site.
+Based on yii framework personal web site.
