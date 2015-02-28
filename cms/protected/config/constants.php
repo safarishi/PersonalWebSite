@@ -9,7 +9,7 @@
 /**
  * 设置系统常量
  */
-define('SITE_URL','http://localhost/0205/bcms/');
+define('SITE_URL','http://localhost/0229/PersonalWebSite/cms/');
 
 define('HOME_CSS_URL',SITE_URL.'assets/home/css/'); // 设置前台样式目录
 define('HOME_IMG_URL',SITE_URL.'assets/home/img/'); // 设置前台图片目录
