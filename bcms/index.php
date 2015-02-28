@@ -1,7 +1,6 @@
 <?php
 
 // 项目应用入口文件
-
 header('content-type: text/html; charset=utf-8');
 
 // change the following paths if necessary
